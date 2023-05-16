@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	    |
 | ANTIGUA           | 7 	    |
+| FiFi              | 1 	    |
